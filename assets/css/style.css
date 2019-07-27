@@ -1,0 +1,8 @@
+body {
+    background-image: url("../images/Pineapple.png");
+    background-size: 100%
+}
+h1 {
+    color: blue;
+    font-family: American Typewriter, serif;
+}
